@@ -1,8 +1,7 @@
-GRC Portfolio Project: Flash Exports (Pty) Ltd
-
+A complete ISO 27001:2022 & NIST CSF 2.0 aligned ISMS for a fictional export company—demonstrating risk assessment, policy writing, and compliance expertise.
  Overview
 This project demonstrates my ability to design and document a lightweight Information Security Management System (ISMS) for a small export company.  
-It’s built as a portfolio piece to show practical GRC skills for roles like GRC Analyst, IT Risk Officer, and Junior SOC Analyst.
+It’s built as a portfolio piece to show practical GRC skills for roles like GRC Analyst, IT Risk Officer.
 
 Fictional Company: Flash Exports (Pty) Ltd  
 Industry: Fruit export, KZN → UK/EU  
