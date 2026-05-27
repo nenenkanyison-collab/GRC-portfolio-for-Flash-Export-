@@ -45,8 +45,6 @@ All documents are in the `/docs` folder:
  How to Use This Repo
 1. Review `Portfolio-Summary.pdf` for a 2-minute overview.
 2. Open documents in `/docs` to see full detail.
-3. All documents are editable. Replace "Apex Exports" with your own fictional company if needed.
-
 Notes
 This is a fictional project created for portfolio purposes. No real company data was used.  
 Built with zero budget using free resources and public frameworks.
