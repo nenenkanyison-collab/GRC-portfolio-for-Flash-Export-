@@ -52,5 +52,5 @@ Built with zero budget using free resources and public frameworks.
 Contact 
 Nkanyiso Nene  
 Email: grc@flashexports.co.za  
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/nkanyiso-n-325765314?
 Location: Durban, KZN, South Africa
