@@ -53,4 +53,5 @@ Contact
 Nkanyiso Nene  
 Email: grc@flashexports.co.za  
 LinkedIn: https://www.linkedin.com/in/nkanyiso-n-325765314?
+
 Location: Durban, KZN, South Africa
